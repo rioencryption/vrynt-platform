@@ -270,8 +270,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Adi6tnine**
-- GitHub: [@Adi6tnine](https://github.com/Adi6tnine)
-
+- GitHub:
 ---
 
 ## 🙏 Acknowledgments
